@@ -1,4 +1,4 @@
-#Multistart
+#Multistart(Windows only)
 
 ##Important
 WindowTitle needs to be set to your window title. The window title is your product name wich can be found and set in 'File -> BuildSettings -> PlayerSettings'
